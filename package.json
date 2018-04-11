@@ -1,0 +1,19 @@
+{
+  "name": "scripts",
+  "version": "1.0.0",
+  "description": "各种脚本",
+  "main": "request4word/index.js",
+  "scripts": {
+    "start": "node request4word/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "download": "^6.2.5",
+    "request": "^2.85.0",
+    "request-promise": "^4.2.2"
+  },
+  "engines": {
+    "node": ">= 8"
+  }
+}
