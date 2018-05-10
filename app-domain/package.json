@@ -1,0 +1,13 @@
+{
+  "name": "app-domain",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./",
+    "transfer": "node transfer-txt-to-json.js"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "bluebird": "^3.5.1"
+  }
+}
